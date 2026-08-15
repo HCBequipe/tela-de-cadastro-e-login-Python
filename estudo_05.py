@@ -36,7 +36,7 @@ while True:
             else:
                 print("\n❌ Senha incorreta! tente novamente")
     elif opcao == "2":
-        print("----TELA DE CADASTRO----\n2")
+        print("----TELA DE CADASTRO----\n")
         print ("faça seu cadasatro conosco")
         print ("precisamos de algumas informações...")
         nome = input('seu nome: ')
